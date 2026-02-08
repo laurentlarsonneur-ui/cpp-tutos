@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #1" par Aredhele
+// Tutoriel - Apprendre le C++ #1 - Les variables
+// https://www.youtube.com/watch?v=KcwAR1eS-1k
+
 #include <iostream>
 
 int main()

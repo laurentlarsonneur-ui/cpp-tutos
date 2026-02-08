@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #1" par Aredhele
+// Tutoriel - Apprendre le C++ #8 - Allocation Dynamique
+// https://www.youtube.com/watch?v=Bw0XL4qsFec
+
 #include <iostream>
 
 void displayArray(int* array, int size)

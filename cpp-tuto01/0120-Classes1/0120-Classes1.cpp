@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #2" par Aredhele
+// Tutoriel - Apprendre le C++ #14 - Les classes - bases
+// https://www.youtube.com/watch?v=lmr6CtROtMk
+
 #include <iostream>
 #include <string>
 

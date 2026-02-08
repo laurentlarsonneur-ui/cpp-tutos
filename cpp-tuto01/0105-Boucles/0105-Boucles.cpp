@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #1" par Aredhele
+// Tutoriel - Apprendre le C++ #3 - Les boucles
+// https://www.youtube.com/watch?v=K6OFRcejqpw
+
 #include <iostream>
 
 int main()

@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #1" par Aredhele
+// Tutoriel - Apprendre le C++ #6 - Les tableaux
+// https://www.youtube.com/watch?v=7A0iFhNZyEg
+
 #include <iostream>
 
 void compute_table(int table, int output[10])

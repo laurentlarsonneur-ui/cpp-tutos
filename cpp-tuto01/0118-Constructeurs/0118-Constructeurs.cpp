@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #2" par Aredhele
+// Tutoriel - Apprendre le C++ #12 - Les constructeurs
+// https://www.youtube.com/watch?v=anb9LfGyuwQ
+
 #include <iostream>
 #include <string>
 

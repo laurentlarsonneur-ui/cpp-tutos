@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #1" par Aredhele
+// Tutoriel - Apprendre le C++ #9 - Les références
+// https://www.youtube.com/watch?v=mWMhkIun1M0
+
 #include <iostream>
 
 void main()

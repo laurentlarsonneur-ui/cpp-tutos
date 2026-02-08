@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #1" par Aredhele
+// Tutoriel - Apprendre le C++ #7 - Les pointeurs
+// https://www.youtube.com/watch?v=etD_lFvATZc
+
 #include <iostream>
 
 void foo(int* prm)

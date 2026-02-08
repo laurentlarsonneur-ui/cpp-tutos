@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #1" par Aredhele
+// Tutoriel - Apprendre le C++ #5 - Les fonctions
+// https://www.youtube.com/watch?v=kBMwQIPVQJs
+
 #include <iostream>
 
 int pow_custom(int number, int n);

@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #2" par Aredhele
+// Tutoriel - Apprendre le C++ #13 - Le destructeur
+// https://www.youtube.com/watch?v=6mxMtGy4nAs
+
 #include <iostream>
 #include <string>
 

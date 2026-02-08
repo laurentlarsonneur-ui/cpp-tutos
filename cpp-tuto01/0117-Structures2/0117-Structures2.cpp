@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #2" par Aredhele
+// Tutoriel - Apprendre le C++ #11 - Les structures - 2/2
+// https://www.youtube.com/watch?v=YfTkii6-_iw
+
 #include <iostream>
 #include <string>
 

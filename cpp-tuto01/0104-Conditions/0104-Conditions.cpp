@@ -1,3 +1,7 @@
+// Inspiré de la Playlist Youtube "Apprendre le C++ #1" par Aredhele
+// Tutoriel - Apprendre le C++ #2 - Les conditions
+// https://www.youtube.com/watch?v=nSW4D1Y-7OA
+
 #include <iostream>
 
 int main()
