@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36915.13 d17.14
+VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld\HelloWorld.vcxproj", "{4B28560D-3D3E-4EF9-B08D-E2F04318C8E0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02.0 HelloWorld", "HelloWorld\HelloWorld.vcxproj", "{4B28560D-3D3E-4EF9-B08D-E2F04318C8E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02.1 Calculatrice", "Calculatrice\Calculatrice.vcxproj", "{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{4B28560D-3D3E-4EF9-B08D-E2F04318C8E0}.Release|x64.Build.0 = Release|x64
 		{4B28560D-3D3E-4EF9-B08D-E2F04318C8E0}.Release|x86.ActiveCfg = Release|Win32
 		{4B28560D-3D3E-4EF9-B08D-E2F04318C8E0}.Release|x86.Build.0 = Release|Win32
+		{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}.Debug|x64.ActiveCfg = Debug|x64
+		{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}.Debug|x64.Build.0 = Debug|x64
+		{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}.Debug|x86.Build.0 = Debug|Win32
+		{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}.Release|x64.ActiveCfg = Release|x64
+		{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}.Release|x64.Build.0 = Release|x64
+		{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}.Release|x86.ActiveCfg = Release|Win32
+		{97D3D0AB-40B3-4A07-B955-17CA40C41DFB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
