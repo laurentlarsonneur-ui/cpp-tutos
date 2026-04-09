@@ -14,11 +14,11 @@ bool divise(int nombre, int diviseur)
 
 int pgcd(int a, int b)
 {
-    int pg = 1;
-    int i = 1;
+    int pg{ 1 };
+    int i{ 1 };
     while ((i <= a) && (i <= b))
     {
-        if (divise(a,i) && divise(b,i)) pg = i;
+        if (divise(a, i) && divise(b, i)) pg = i;
         i++;
     }
     return pg;
@@ -75,7 +75,7 @@ public:
 
 int main()
 {
-    std::cout << "-- Exercice 1 : Calculatrice de fractions --" << std::endl;
+    std::cout << "-- Exercice 02.1 : Calculatrice de fractions --" << std::endl;
     Fraction frac1(3, 12);
     std::cout << "Frac1 = " << frac1.affiche() << std::endl;
     Fraction frac2(2, 8);
